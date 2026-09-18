@@ -21,8 +21,8 @@ T1110.
 
 ### Currently
 
-Working toward CompTIA Security+. Practising Linux security fundamentals on a
-spare machine, one topic at a time.
+Earned CompTIA Security+ (SY0-701) in September 2026. Practising Linux security fundamentals on a
+spare machine, one topic at a time, and working toward my next certification.
 
 ### Reach me
 
