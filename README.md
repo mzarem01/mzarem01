@@ -8,8 +8,8 @@ side hands-on.
 
 ### What's here
 
-**[homelab](https://github.com/mzarem01/homelab)** is a Debian server I built
-from a 2009 office PC and have run for over a year. Around 13 Docker containers,
+**[homelab](https://github.com/mzarem01/homelab)** is a Debian server I started on a 2009 office PC and have run for over a year,
+now migrated to a Dell OptiPlex (i7-7700, 32 GB). Around 13 Docker containers,
 two disks pooled with mergerfs, no forwarded ports, and nightly backups that
 report a heartbeat to uptime monitoring. Includes the architecture, the reasoning
 behind each decision, and what I got wrong.
